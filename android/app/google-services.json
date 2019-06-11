@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12028182258",
+    "firebase_url": "https://eniplanning-4446b.firebaseio.com",
+    "project_id": "eniplanning-4446b",
+    "storage_bucket": "eniplanning-4446b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12028182258:android:815255cca03fc3fe",
+        "android_client_info": {
+          "package_name": "com.example.eniplanning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12028182258-lv1251euia2e07r71tffggmri02s0ste.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSVTGb2j3Cw4nerFxf4t0pwOIFSB4z2GI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
