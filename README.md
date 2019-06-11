@@ -6,4 +6,4 @@ Une application developpée avec flutter
 Application d'aide à la gestion de l'emploi du temps de l'ENI Fianarantsoa Madagascar.
 
 
-![Alt text](eni planing.png?raw=true "Demos")
+![Alt text](./eni planing.png?raw=true "Demos")
